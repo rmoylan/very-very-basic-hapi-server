@@ -1,0 +1,27 @@
+{
+  "name": "very-very-basic-hapi-server",
+  "version": "1.0.0",
+  "description": "A very basic web server using hapijs",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmoylan/very-very-basic-hapi-server.git"
+  },
+  "keywords": [
+    "node",
+    "hapi"
+  ],
+  "author": "ryan moylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmoylan/very-very-basic-hapi-server/issues"
+  },
+  "homepage": "https://github.com/rmoylan/very-very-basic-hapi-server#readme",
+  "dependencies": {
+    "hapi": "^10.1.0",
+    "inert": "^3.0.1"
+  }
+}
