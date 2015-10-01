@@ -4,8 +4,9 @@
 	<li>Clone Repo into desired directory</li>
 	<li>In Terminal, navigate to Repo directory. 
 		<ul>
-		<li>Type cd in terminal with a space after the d</li>
-		<li>Drag Repo directory into the terminal window and place enter.</li>
+			<li>Type cd in terminal with a space after the d</li>
+			<li>Drag Repo directory into the terminal window and place enter.</li>
+		</ul>
 	</li>
 	<li>Type npm install and press enter</li>
 	<li>When installation is complete, Type node server.js and press enter.</li>
