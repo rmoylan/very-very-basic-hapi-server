@@ -5,7 +5,7 @@
 	<li>In Terminal, navigate to Repo directory. 
 		<ul>
 			<li>Type cd in terminal with a space after the d</li>
-			<li>Drag Repo directory into the terminal window and place enter.</li>
+			<li>Drag directory into the terminal window and place enter.</li>
 		</ul>
 	</li>
 	<li>Type npm install and press enter</li>
